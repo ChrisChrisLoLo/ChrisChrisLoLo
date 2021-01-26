@@ -1,5 +1,5 @@
 <span>
-<img src="https://github.com/ChrisChrisLoLo/ChrisChrisLoLo/blob/main/congaparrot.gif?raw=true" width="48" style="">
+<img src="https://github.com/ChrisChrisLoLo/ChrisChrisLoLo/blob/main/congaparrot.gif?raw=true" width="48">
 <img src="https://github.com/ChrisChrisLoLo/ChrisChrisLoLo/blob/main/congaparrot.gif?raw=true" width="48">
 <img src="https://github.com/ChrisChrisLoLo/ChrisChrisLoLo/blob/main/congaparrot.gif?raw=true" width="48">
 <img src="https://github.com/ChrisChrisLoLo/ChrisChrisLoLo/blob/main/congaparrot.gif?raw=true" width="48">
@@ -7,7 +7,16 @@
 <img src="https://github.com/ChrisChrisLoLo/ChrisChrisLoLo/blob/main/congaparrot.gif?raw=true" width="48">
 <img src="https://github.com/ChrisChrisLoLo/ChrisChrisLoLo/blob/main/congaparrot.gif?raw=true" width="48">
 </span>
-
+<h1>Welcome</h1>
+<span>
+<img src="https://github.com/ChrisChrisLoLo/ChrisChrisLoLo/blob/main/congaparrot.gif?raw=true" width="48">
+<img src="https://github.com/ChrisChrisLoLo/ChrisChrisLoLo/blob/main/congaparrot.gif?raw=true" width="48">
+<img src="https://github.com/ChrisChrisLoLo/ChrisChrisLoLo/blob/main/congaparrot.gif?raw=true" width="48">
+<img src="https://github.com/ChrisChrisLoLo/ChrisChrisLoLo/blob/main/congaparrot.gif?raw=true" width="48">
+<img src="https://github.com/ChrisChrisLoLo/ChrisChrisLoLo/blob/main/congaparrot.gif?raw=true" width="48">
+<img src="https://github.com/ChrisChrisLoLo/ChrisChrisLoLo/blob/main/congaparrot.gif?raw=true" width="48">
+<img src="https://github.com/ChrisChrisLoLo/ChrisChrisLoLo/blob/main/congaparrot.gif?raw=true" width="48">
+</span>
 <!--
 **ChrisChrisLoLo/ChrisChrisLoLo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
