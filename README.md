@@ -1,4 +1,8 @@
-![alt text](https://github.com/ChrisChrisLoLo/ChrisChrisLoLo/blob/main/party_parrot.gif?raw=true)
+![alt text](https://github.com/ChrisChrisLoLo/ChrisChrisLoLo/blob/main/parrot.gif?raw=true)
+![alt text](https://github.com/ChrisChrisLoLo/ChrisChrisLoLo/blob/main/parrot.gif?raw=true)
+![alt text](https://github.com/ChrisChrisLoLo/ChrisChrisLoLo/blob/main/parrot.gif?raw=true)
+![alt text](https://github.com/ChrisChrisLoLo/ChrisChrisLoLo/blob/main/parrot.gif?raw=true)
+
 
 <!--
 **ChrisChrisLoLo/ChrisChrisLoLo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
