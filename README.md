@@ -1,4 +1,5 @@
 ### Hi there 👋
+[[https://github.com/ChrisChrisLoLo/ChrisChrisLoLo/blob/main/party_parrot.gif|alt=party_parrot]]
 
 <!--
 **ChrisChrisLoLo/ChrisChrisLoLo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
