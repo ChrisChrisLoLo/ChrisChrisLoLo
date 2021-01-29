@@ -7,7 +7,7 @@
 <img src="https://github.com/ChrisChrisLoLo/ChrisChrisLoLo/blob/main/congaparrot.gif?raw=true" width="48">
 <img src="https://github.com/ChrisChrisLoLo/ChrisChrisLoLo/blob/main/congaparrot.gif?raw=true" width="48">
 </span>
-<h1>Welcome to my profile</h1>
+<img src="https://github.com/ChrisChrisLoLo/ChrisChrisLoLo/blob/main/text2.gif?raw=true" width="360">
 <span>
 <img src="https://github.com/ChrisChrisLoLo/ChrisChrisLoLo/blob/main/congaparrot.gif?raw=true" width="48">
 <img src="https://github.com/ChrisChrisLoLo/ChrisChrisLoLo/blob/main/congaparrot.gif?raw=true" width="48">
