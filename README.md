@@ -18,6 +18,9 @@
 <img src="https://github.com/ChrisChrisLoLo/ChrisChrisLoLo/blob/main/parrot.gif?raw=true" width="48">
 </span>
 
+# Stats
+<img src="https://raw.githubusercontent.com/ChrisChrisLoLo/ChrisChrisLoLo/main/Screen%20Shot%202022-08-13%20at%208.12.25%20PM.png" width="500">
+
 <!--
 **ChrisChrisLoLo/ChrisChrisLoLo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
