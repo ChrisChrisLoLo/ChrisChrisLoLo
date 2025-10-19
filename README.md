@@ -33,10 +33,12 @@ You can find my keyboard related discord [here](https://discord.com/invite/m8vwn
 
 <img src="https://github.com/ChrisChrisLoLo/ChrisChrisLoLo/blob/main/text(3).gif?raw=true">
 
-Big thank you to BeeKeeb, TALPKEYBOARD, and kurihara for sponsoring me on [Github](https://github.com/sponsors/ChrisChrisLoLo/) and [Kofi](https://ko-fi.com/sporewoh)!
+Big thank you to NextPCB, BeeKeeb, TALPKEYBOARD, and kurihara for sponsoring me on [Github](https://github.com/sponsors/ChrisChrisLoLo/) and [Kofi](https://ko-fi.com/sporewoh)!
 Your support allows me to get the tools and components I need to continue to create and iterate on experimental keyboard designs! Thank you for enabling me to continue what I love to do.
 
 If you've enjoyed my open source designs or like to support the content I create, please consider donating!
+
+<img src="https://github.com/ChrisChrisLoLo/ChrisChrisLoLo/blob/main/nextpcblogolarge.png?raw=true" width="220" href="https://www.nextpcb.com/">
 
 # Stats
 <img src="https://raw.githubusercontent.com/ChrisChrisLoLo/ChrisChrisLoLo/main/Screen%20Shot%202022-08-13%20at%208.12.25%20PM.png" width="500">
